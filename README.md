@@ -2,6 +2,8 @@
 
 Welcome to **Awesome Life**, a curated list of resources and links to help you live an awesome and fulfilling life. This repository is inspired by the spirit of sharing knowledge and empowering individuals to make the most of their lives.
 
+![Banner](https://raw.githubusercontent.com/kothariji/awesome-life/main/banner.png)
+
 ## Contents
 
 - [Personal Development](#personal-development)
